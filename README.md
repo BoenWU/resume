@@ -21,8 +21,7 @@
   * 喷泉：https://boenwu.github.io/DAIRY/fountain/
   
   * 回到顶部小插件：https://boenwu.github.io/DAIRY/toolbar/
-  
-  
+
 3.React + React-router + React-responsive + ant-design + fetch + webpack头条新闻，兼容pc端和移动端：https://github.com/BoenWU/ReactNews
 
 4.vue2 +vue-router2 + es6 +webpack 高仿饿了么app：https://github.com/BoenWU/Eleme-APP
