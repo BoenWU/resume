@@ -12,6 +12,8 @@
   
 ### H5小作品
 
+* 爱心鱼小游戏：https://boenwu.github.io/Tinyheart/
+
 * canvas时钟：https://boenwu.github.io/DAIRY/canvas_clock/
 
 * 写字板：https://boenwu.github.io/DAIRY/Words/
