@@ -27,3 +27,5 @@
 ### vue2 +vue-router2 + es6 +webpack 高仿饿了么app：https://github.com/BoenWU/Eleme-APP
 
 ### vue2.0 + vuex + localStorage + sass + webpack，实现一个本地存储的记事本,兼容PC端和移动端：https://github.com/BoenWU/Notepad
+
+### 实现重构的个人博客：https://boenwu.github.io/blog（最近把个人博客迁移到hexo这个轻量静态博客，因博客格式需要调整导致日志没有更新，暂时只做了博客功能实现和页面重构，以后会更新博客内容）
